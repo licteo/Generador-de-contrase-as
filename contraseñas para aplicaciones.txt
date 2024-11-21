@@ -1,0 +1,23 @@
+La contraseña debe cumplir con los siguientes requisitos:
+- Mínimo 6 caracteres.
+- Máximo 12 caracteres.
+- Tener al menos una letra mayuscula.
+- Tener al menos una letra minuscula.
+- Tener al menos un número
+- Tener un carácter especial (@$!%*?&).
+
+
+contraseña de señor bíter = 6^edbGuF6(9)
+
+
+contraseña de alcaldía de cucuta: ORYbJoBpAC1!
+
+contraseña de astrabazaar: EyDMa9S*K)aL
+
+contraseña de licteo: 
+
+contraseña de licteoareas: 
+
+
+
+
